@@ -28,7 +28,7 @@ function App() {
         <div className="flex flex-col md:flex-row justify-between space-y-6 md:space-y-0 md:space-x-6">
           {/* Expense Tracker */}
           <div className="bg-white h-auto w-80 rounded-xl shadow-lg p-6">
-            <h3 className="text-2xl font-extrabold text-gray-900 mb-6 text-center">
+            <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">
               Expense Tracker
             </h3>
             <h3 className="font-bold my-2">Income:</h3>
